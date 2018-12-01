@@ -1,2 +1,2 @@
-# UFPA-C-lculo-das-Fun-es-de-V-rias-Vari-veis
+# Cálculo das funções de várias variáveis
 Notas do curso de Cálculo da funções de várias variáveis
